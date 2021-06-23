@@ -1,0 +1,9 @@
+﻿Name,Quantity,Component
+"U1",1," Arduino Uno R3"
+"U3",1," LCD 16 x 2 "
+"Rpot1",1,"250 kΩ Potentiometer"
+"R1",1,"220 Ω Resistor"
+"DIST1",1," Ultrasonic Distance Sensor"
+"PIEZO2",1," Piezo"
+"LED1",1," NeoPixel"
+"R2",1,"1 kΩ Resistor"
